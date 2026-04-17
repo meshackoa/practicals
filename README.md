@@ -1,0 +1,2 @@
+# practicals
+DevOps training practicals
